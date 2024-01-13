@@ -1,6 +1,4 @@
-# Introduction-to-Python-CodingNinjas
-Phase 1 : Ninja Data Scientist Career Track.
-
+# Introduction_to_Python
 1. Introduction to Python
 2. Conditionals and Loops
 3. Patterns 1
